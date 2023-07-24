@@ -1,1 +1,2 @@
 # Develop
+This challege was unlike any I have done before. I liked seeing the changes on the frontend as I worked and had a couple hiccups directory wise when things would not see eachother. But overall i got it to work. this took a lot of extra reseaching on my end to really get it down but overall a good learning experiance. 
